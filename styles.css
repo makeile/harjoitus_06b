@@ -1,0 +1,54 @@
+body {
+    background:rgb(198, 214, 198);
+    color:rgb(0, 0, 0);
+
+
+}
+
+div{
+    background: black;
+    color:white;
+    font-weight:bold;
+    text-align: center;
+}
+
+h1{background:rgb(0, 0, 0);
+    width: 800px;
+    height: 100px;
+   text-align: center;
+   font-size: 35px;
+   color: rgb(120, 14, 14);
+   padding-top: 3%;
+}
+footer{background:rgb(2, 2, 2);
+color:rgb(255, 253, 251);
+text-align: center;
+font-size: large;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav{ 
+   background-color: black;
+   float: left;
+   width: 130px;
+   height: 350px;
+   text-align: left;
+   color: antiquewhite;
+   font-size: large;
+  
+}
+section{
+    background-color: gray;
+    float: center;
+    width: 800px;
+    height: 35px;
+    text-align: center;
+    color: rgb(29, 219, 229);
+    
+}
+a:hover {
+    color: red;
+}
+
+
+
